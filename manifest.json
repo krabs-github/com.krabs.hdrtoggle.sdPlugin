@@ -30,7 +30,7 @@
 
     "SDKVersion": 2,
     "Author": "Krabs",
-    "Category": "Krabs - Stream Deck Labs",
+    "Category": "Krabs - HDR Toggle",
     "CategoryIcon": "resources/images/categoryIcon",
     "CodePathWin": "bin/streamdeck-batplug.exe",
     "Description": "HDR Toggle toggles HDR mode for all supported monitors",
