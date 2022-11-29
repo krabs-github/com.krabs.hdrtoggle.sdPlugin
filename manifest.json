@@ -1,0 +1,46 @@
+{
+    "Actions": [
+        {
+          "Icon": "resources/images/hdr_actionIcon",
+          "Name": "HDR Toggle (All Monitors)",
+          "States": [
+              {
+                "Image": "resources/images/hdr_Icon_Off",
+                "TitleAlignment": "center",
+                "FontFamily": "Arial",
+                "TitleColor": "#ffffff",
+                "FontStyle": "Bold",
+                "FontSize": "9"
+              },
+              {
+                "Image": "resources/images/hdr_Icon_On",
+                "TitleAlignment": "center",
+                "FontFamily": "Arial",
+                "TitleColor": "#ffffff",
+                "FontStyle": "Bold",
+                "FontSize": "9"
+              }
+            ],
+          "SupportedInMultiActions": false,
+          "Tooltip": "HDR Toggle (All Supported Monitors)",
+          "PropertyInspectorPath": "PI/Generic_pi.html",
+          "UUID": "com.krabs.hdrtoggle.hdrtoggle"
+      }
+    ],
+
+    "SDKVersion": 2,
+    "Author": "Krabs",
+    "Category": "Krabs - Stream Deck Labs",
+    "CategoryIcon": "resources/images/categoryIcon",
+    "CodePathWin": "bin/streamdeck-batplug.exe",
+    "Description": "HDR Toggle toggles HDR mode for all supported monitors",
+    "Name": "HDR Toggle",
+    "Icon": "resources/images/pluginIcon",
+    "URL": "https://www.krabs.me/streamdeck-plugins",
+    "Version": "1.0.2",
+    "OS": [
+        { "Platform": "windows", "MinimumVersion": "10" }
+    ],
+    "Software": { "MinimumVersion": "5.0" },
+    "DefaultWindowSize": [436, 768]
+}
