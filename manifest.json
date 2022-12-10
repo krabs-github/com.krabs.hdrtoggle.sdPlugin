@@ -37,7 +37,7 @@
     "Name": "HDR Toggle",
     "Icon": "resources/images/pluginIcon",
     "URL": "https://www.krabs.me/streamdeck-plugins",
-    "Version": "1.0.3",
+    "Version": "1.0.4",
     "OS": [
         { "Platform": "windows", "MinimumVersion": "10" }
     ],
